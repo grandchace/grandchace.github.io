@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.apple.ist.pricing</string>
+				<string>com.haxi0.santanderescaped</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
