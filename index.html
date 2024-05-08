@@ -1,8 +1,13 @@
 <html>
   <head>
-    <title>h1</title>
+    <title>Wordle Answer</title>
+<script>
+const req = new XMLHttpRequest();
+req.open("GET", "https://www.nytimes.com/svc/wordle/v2/2024-05-07.json");
+req.send();
+alert(req.responseText);
+</script>
   </head>
   <body>
-    <h1>index.html</h1>
   </body>
 </html>
